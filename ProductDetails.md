@@ -77,7 +77,7 @@
 ## Add Images to Product Group Table
 
 ### HTML:
-```
+```html
 <table class="ProductGroup table">
   <thead>
     <tr class="ProductGroupHeader no-wrap">
